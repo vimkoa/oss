@@ -1,0 +1,29 @@
+{
+  "name": "oss",
+  "version": "1.0.0",
+  "keywords": [
+    "oss"
+  ],
+  "bin": {
+    "oss": "./app.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+  "description": "A command line tool for managing OSS.",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimkoo/oss.git"
+  },
+  "author": "joywek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vimkoo/oss/issues"
+  },
+  "homepage": "https://github.com/vimkoo/oss#readme"
+}

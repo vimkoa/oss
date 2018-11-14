@@ -1,0 +1,8 @@
+{
+	"accessKeyId" : "<Your access key ID>",
+	"accessKeySecret" : "<Your access key secret>",
+	"bucket" : "<Your bucket name>",
+	"region" : "<Your region>",
+	"domain": "<Your domain>"
+}
+
